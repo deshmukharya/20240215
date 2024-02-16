@@ -1,0 +1,69 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "Laptop",
+        "description": "Powerful laptop for work and entertainment",
+        "price": 999.99,
+        "stock": 50,
+        "image": "https://example.com/laptop.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Smartphone",
+        "description": "High-performance smartphone with advanced features",
+        "price": 499.99,
+        "stock": 100,
+        "image": "https://example.com/smartphone.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Headphones",
+        "description": "Over-ear headphones with noise cancellation",
+        "price": 149.99,
+        "stock": 30,
+        "image": "https://example.com/headphones.jpg"
+      },
+      {
+        "id": 4,
+        "name": "Smart Watch",
+        "description": "Fitness tracker and smartwatch with health features",
+        "price": 129.99,
+        "stock": 20,
+        "image": "https://example.com/smartwatch.jpg"
+      },
+      {
+        "id": 5,
+        "name": "Camera",
+        "description": "High-resolution digital camera for photography enthusiasts",
+        "price": 699.99,
+        "stock": 15,
+        "image": "https://example.com/camera.jpg"
+      },
+      {
+        "id": 6,
+        "name": "Gaming Console",
+        "description": "Next-gen gaming console for immersive gaming experience",
+        "price": 449.99,
+        "stock": 25,
+        "image": "https://example.com/gaming-console.jpg"
+      },
+      {
+        "id": 7,
+        "name": "Wireless Speaker",
+        "description": "Portable wireless speaker with high-quality sound",
+        "price": 79.99,
+        "stock": 40,
+        "image": "https://example.com/speaker.jpg"
+      },
+      {
+        "id": 8,
+        "name": "Coffee Maker",
+        "description": "Automatic coffee maker for the perfect cup of coffee",
+        "price": 89.99,
+        "stock": 10,
+        "image": "https://example.com/coffee-maker.jpg"
+      }
+    ]
+  }
+  

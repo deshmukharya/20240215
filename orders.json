@@ -1,0 +1,13 @@
+[
+  {
+    "id": 12,
+    "name": "Smartphone",
+    "description": "High-performance smartphone with advanced features",
+    "price": 499.99,
+    "stock": 100,
+    "image": "https://example.com/smartphone.jpg",
+    "status": "out of delivery",
+    "totalbill": 890
+  }
+  
+]
